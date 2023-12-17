@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .navbar {
+    background-color: #333;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .nav-item {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .nav-item:hover {
+    color: #ffd700; /* Change color on hover */
+  }
+  .navbar:hover{
+    background-color: antiquewhite;
+  }
