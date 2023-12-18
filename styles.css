@@ -4,7 +4,7 @@ body {
   }
   
   .navbar {
-    background-color: #333;
+    background-color: aqua;
     padding: 15px;
     position: fixed;
     width: 100%;
@@ -13,14 +13,14 @@ body {
   }
   
   .nav-item {
-    color: #fff;
+    color: aqua;
     text-decoration: none;
     margin: 0 15px;
     transition: color 0.3s ease-in-out;
   }
   
   .nav-item:hover {
-    color: #ffd700; /* Change color on hover */
+    color: brown; /* Change color on hover */
   }
   .navbar:hover{
     background-color: antiquewhite;
