@@ -13,14 +13,14 @@ body {
   }
   
   .nav-item {
-    color: aqua;
+    color: black;
     text-decoration: none;
     margin: 0 15px;
     transition: color 0.3s ease-in-out;
   }
   
   .nav-item:hover {
-    color: brown; /* Change color on hover */
+    color: blue; /* Change color on hover */
   }
   .navbar:hover{
     background-color: antiquewhite;
